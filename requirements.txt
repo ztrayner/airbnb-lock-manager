@@ -1,0 +1,6 @@
+icalendar
+requests
+python-dotenv
+wyze-sdk
+pytz
+setuptools  # Required for Python 3.12+ distutils compatibility
